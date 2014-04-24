@@ -5783,3 +5783,28 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+
+/*---------------Mis modificaciones----------------*/
+.inner{
+  background-color: #0099FF;
+}
+
+ul li a{
+  text-decoration: none;
+  color:white;
+}
+
+div h1{
+  color: #0099FF;
+}
+
+div h3{
+  color:#7093DB ;
+}
+.modal-header{
+  color: #0099FF;
+}
+.modal-body{
+  color:#7093DB ;
+}
